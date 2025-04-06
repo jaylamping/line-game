@@ -1,0 +1,19 @@
+{
+  "name": "line-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaylamping/line-game.git"
+  },
+  "author": "jaylamping",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaylamping/line-game/issues"
+  },
+  "homepage": "https://github.com/jaylamping/line-game#readme",
+  "description": ""
+}
